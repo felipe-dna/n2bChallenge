@@ -1,1 +1,4 @@
-<p>Para bom funcionamento certifique-se de que estão presentes os diretórios "arquivos" com os arquivos csv, "cropped-imgs" como diretório vazio e "imgs" com as imagens a serem "cropadas".</p>
+<ul>
+<li>O resultado está dentro do diretório "arquivos/".</li>
+<li>Para funcionamento correto, cole a pasta de imagens ('imgs') dentro do diretório que app.py está</li>
+</ul>
