@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = "*"
+pylint = "*"
+pep8 = "*"
+
+[packages]
+pillow = "*"
+pil = "*"
+numpy = "*"
+cv2 = "*"
+opencv-python = "*"
+matplotlib = "*"
+
+[requires]
+python_version = "3.7"
